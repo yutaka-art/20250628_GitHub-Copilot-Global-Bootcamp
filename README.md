@@ -30,10 +30,9 @@ content フォルダーには、各モジュールのプレゼンテーション
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
 | 01 | [GitHub 入門](content) | 1時間以内で GitHub を使い始めよう | リポジトリ、ブランチ、コミット、プルリクエストの基礎を学ぶ |
 | 02 | [GitHub Codespaces 入門](content) | GitHub Codespaces と Visual Studio Code で開発しよう | Codespace の作成、コードのプッシュ、カスタムイメージの選択、Codespace のカスタマイズ方法 |
-| 03 | [GitHub Copilot 入門](content) | GitHub Copilot の仕組み、責任あるAI、セットアップ | AI支援コーディングの原則を理解し、GitHub Copilot を開発環境に設定する |
-| 04 | [ハンズオンラボ](content) | GitHub Copilot は VS Code や Codespaces で自動補完型の提案を行い、コーディングを支援します | GitHub Copilot の機能を体験する |
+| 03 | [GitHub Copilot 入門](content) | GitHub Copilot は VS Code や Codespaces で自動補完型の提案を行い、コーディングを支援します | GitHub Copilot の機能を体験する |
 
-> [!NOTE]  
+> [!NOTE]
 > **GitHub 入門** モジュールはオプションです。参加者がすでに GitHub に慣れている場合は省略できます。登録ページで GitHub の利用経験を確認する質問を追加し、多くの参加者が既に使い慣れている場合は他の3つのモジュールに集中しましょう。
 
 ## 貢献について

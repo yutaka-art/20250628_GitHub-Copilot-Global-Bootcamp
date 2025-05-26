@@ -10,10 +10,9 @@
 
 |       |              コンテンツ             |                       学習内容                       |                     学習目標                 |
 | :---: | :------------------------------------: | :---------------------------------------------------------: | ----------------------------------------------------------- |
-| 01 | GitHub 入門 | 1時間以内で GitHub を使い始めよう | リポジトリ、ブランチ、コミット、プルリクエストの基礎を学ぶ |
-| 02 | GitHub Codespaces 入門 | GitHub Codespaces と Visual Studio Code で開発しよう | Codespace の作成、コードのプッシュ、カスタムイメージの選択、Codespace のカスタマイズ方法 |
-| 03 | GitHub Copilot 入門 | GitHub Copilot の仕組み、責任あるAI、セットアップ | AI支援コーディングの原則を理解し、GitHub Copilot を開発環境に設定する |
-| 04 | ハンズオンラボ | GitHub Copilot は VS Code や Codespaces で自動補完型の提案を行い、コーディングを支援します | GitHub Copilot の機能を体験する |
+| 01 | [GitHub 入門](/01-Introduction-to-GitHub/) | 1時間以内で GitHub を使い始めよう | リポジトリ、ブランチ、コミット、プルリクエストの基礎を学ぶ |
+| 02 | [GitHub Codespaces 入門](/02-Introduction-to-GitHub-Codespaces/) | GitHub Codespaces と Visual Studio Code で開発しよう | Codespace の作成、コードのプッシュ、カスタムイメージの選択、Codespace のカスタマイズ方法 |
+| 03 | [GitHub Copilot 入門](/03-Introduction-to-GitHub-Copilot/) | GitHub Copilot は VS Code や Codespaces で自動補完型の提案を行い、コーディングを支援します | GitHub Copilot の機能を体験する |
 
 ## ラボ
 ワークショップを充実させるための実践的なリソースを紹介します。ここでは Microsoft Learn のインタラクティブなトレーニングや、GitHub Copilot のスキルを伸ばすハンズオン演習付きリポジトリを掲載しています。
